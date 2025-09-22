@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(193, 233, 247);
+    padding: 10px;
+}
+
+header a {
+    background-color: white;
+    padding: 3px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+main h1{
+    background-color: rgb(193, 233, 247);
+    color: rgb(112, 116, 234);
+    text-align: center;
+}
+
+footer p{
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+.option {
+    background-color: rgb(201, 240, 143);
+    padding: 10px;
+}
+h2{
+   color: blue; 
+}
+.big {
+    text-decoration: none;
+    border: 2px solid blue;
+    padding: 5px;
+}
